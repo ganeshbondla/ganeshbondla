@@ -2,7 +2,7 @@
 
 Having around 4.2 years of IT experience in Software Development with proficiency in developing Enterprise-based and web-based applications using ReactJs, NodeJs with Express and .NET C# / MVC, PHP, SQL and MYSQL technologies.
 
-TECHNICAL SKILLS
+Skilled @ 
 
 HTML, 
 CSS, 
