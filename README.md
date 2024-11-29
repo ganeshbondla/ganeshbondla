@@ -1,6 +1,6 @@
 👋 Hi there, I'm Ganesh Bondla.
 
-Having around 4+ years of IT experience in Software Development with proficiency in developing Enterprise-based and web-based applications using ReactJs, NodeJs with Express and .NET C# / MVC / Core APIs, PHP, SQL / MYSQL / MongoDB technologies.
+Having around 5+ years of IT experience in Software Development with proficiency in developing Enterprise-based and web-based applications using ReactJs, NodeJs with Express and .NET C# / MVC / Core APIs, PHP, SQL / MYSQL / MongoDB technologies.
 
 <!-- Skilled @ 
 
